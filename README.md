@@ -48,5 +48,3 @@ The interactive dashboard includes:
 - Slicers: Filters for interactive data exploration.
 - Dynamic Charts: Charts that update based on selected filters.
 
-## Contributors
-- Taha Ahmed
